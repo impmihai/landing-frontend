@@ -240,6 +240,11 @@ textarea.materialize-textarea {
   font-family: "Ubuntu Mono";
   padding: 0.7em;
 }
+.bb-chips .chip {
+  background: black;
+  color: white;
+  font-family: "Ubuntu Mono";
+}
 .val-diff {
   padding: 0.5em !important;
   font-size: 0.8em !important;
